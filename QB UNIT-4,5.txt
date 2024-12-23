@@ -1,0 +1,15 @@
+Unit 4
+1.Explain lossless compression using Huffman coding with example
+2. lossy compression using Transform coding with an example 
+3.lossy compression using wavelet coding with an example 
+4.climate data analysis
+
+Unit 5
+1.What is image segmentation?
+Types of image segmentation.
+2.Explain about segmentation methods thresholding,region growing, morphological watershed with example.
+3.Advanced segmentation methods clustering,model fitting,probabilistic methods.
+4.Differentiate similarity segmentation approach and discontinuity approach.
+5.explain region based segmentation techniques with an example.
+6.Discuss about Representation and boundary ,regional ,shape, topological descriptors.with an example.
+7.Explain about Texture feature extraction with an example.
